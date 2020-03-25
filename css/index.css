@@ -1,0 +1,18 @@
+
+div#header{
+    background: gray;
+}
+
+div#sidebar{
+    background: black;
+    color: white;
+}
+
+div#main{
+
+    background:#e2e7eb;
+}
+
+div#footer{
+    background: rgb(137, 93, 137);
+}
