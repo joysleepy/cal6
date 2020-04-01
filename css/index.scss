@@ -1,0 +1,37 @@
+/* The Chromatics */
+$justGray:    gray;
+$blueGray:    #59596a;
+$purpleGray:  #895d89;
+$lightGray:   #e2e7eb;
+$justBlack:   black;
+$justWhite:   white;
+
+/* Paddings */
+$smallPadding:  5px;
+$mediumPadding: 10px;
+$longPadding:   15px;
+
+/* The Infraeschorchor */
+div#header{
+    background: $justGray;
+    color: $justWhite;
+    
+    div#buscador{
+      text-align: right;
+      padding-top: $longPadding;
+      background: $blueGray;
+    }
+}
+
+div#sidebar{
+    background: $justBlack;
+    color: $justWhite;
+}
+
+div#main{
+    background: $lightGray;
+}
+
+div#footer{
+    background: $purpleGray;
+}

@@ -1,18 +1,27 @@
-
-div#header{
-    background: gray;
+/* The Chromatics */
+/* Paddings */
+/* The Infraeschorchor */
+div#header {
+  background: gray;
+  color: white;
+}
+div#header div#buscador {
+  text-align: right;
+  padding-top: 15px;
+  background: #59596a;
 }
 
-div#sidebar{
-    background: black;
-    color: white;
+div#sidebar {
+  background: black;
+  color: white;
 }
 
-div#main{
-
-    background:#e2e7eb;
+div#main {
+  background: #e2e7eb;
 }
 
-div#footer{
-    background: rgb(137, 93, 137);
+div#footer {
+  background: #895d89;
 }
+
+/*# sourceMappingURL=index.css.map */
